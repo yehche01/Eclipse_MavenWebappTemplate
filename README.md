@@ -1,2 +1,3 @@
 # Eclipse_MavenWebappTemplate
-haha
+
+- Basic Maven Webapp
